@@ -1,3 +1,11 @@
+此项目基于`free-programming-books`，我会通过下面脚本(来自掘金插件)获取到有相关的学习资源就添加这个地方，以及 [weekly](https://github.com/ruanyf/weekly) 里面提到的工具、资源也会更新到这里。旨在完善更多、更新的中文编程学习资源，欢迎 [`star`](https://github.com/chasays/free-cs-books/stargazers) 或 [`fork`](https://github.com/chasays/free-cs-books/network/members)。
+
+```sh
+curl 'https://e.xitu.io/resources/github' \
+  --data-raw '{"category":"trending","period":"day","lang":"java","offset":0,"limit":30}' \
+  --compressed
+  ```
+
 ## 目录
 
 * [语言无关](#语言无关)
