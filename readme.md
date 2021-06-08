@@ -685,6 +685,7 @@ curl 'https://e.xitu.io/resources/github' \
 * [Python进阶](https://interpy.eastlakeside.com) - eastlakeside
 * [Python之旅](http://funhacks.net/explore-python) - Ethan
 * [Tornado 6.1 中文文档](http://www.osgeo.cn/tornado/) - (网络上其他的都是较旧版本的，Online)
+* [正确方法学python](https://learnpythontherightway.com/) -支持下载pdf、mobi、epub电子文档
 
 
 #### Django
